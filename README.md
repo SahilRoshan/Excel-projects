@@ -1,1 +1,1 @@
-Analysis using Excel and pivot table buidlup
+Analysis using Excel and pivot table buildup
